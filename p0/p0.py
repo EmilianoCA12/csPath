@@ -280,6 +280,3 @@ inputMessage = input("Input something you want to print: ")
 # Print each letter of the ASCII art
 for letter in inputMessage.lower():
     print(characters[letter])
-        
-
-equisde = []
