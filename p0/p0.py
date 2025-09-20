@@ -281,3 +281,5 @@ inputMessage = input("Input something you want to print: ")
 for letter in inputMessage.lower():
     print(characters[letter])
         
+
+equisde = []
